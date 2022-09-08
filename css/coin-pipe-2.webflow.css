@@ -1004,7 +1004,20 @@
 }
 
 .title_legal.no-data {
-  margin-top: 16px;
+  margin-top: 8px;
+  margin-left: -165px;
+}
+
+@media screen and (max-width: 991px) {
+  .title_legal.no-data {
+    margin-left: -150px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .title_legal.no-data {
+    margin-left: -125px;
+  }
 }
 
 .legal_wrapper {
