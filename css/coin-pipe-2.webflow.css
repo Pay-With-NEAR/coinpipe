@@ -567,7 +567,6 @@
   font-size: 21px;
   line-height: 33px;
   text-align: left;
-  font-weight: normal;
 }
 
 .subtitle--2.white {
@@ -1474,6 +1473,7 @@
   font-size: 18px;
   line-height: 27px;
   text-align: center;
+  font-weight: normal;
 }
 
 .div-block-11 {
