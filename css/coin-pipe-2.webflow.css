@@ -1305,11 +1305,12 @@
   width: 100vw;
   max-width: 1440px;
   margin-right: auto;
-  margin-bottom: 150px;
+  margin-bottom: 0;
   margin-left: auto;
   padding: 117px 101px;
   border-radius: 60px;
   background-color: #1e1e1e;
+  z-index: 2;
 }
 
 .h1 {
