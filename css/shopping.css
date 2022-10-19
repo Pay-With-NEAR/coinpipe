@@ -431,7 +431,15 @@
     border-radius: 8px;
     transition: all 200ms ease;
     box-sizing: border-box;
+    text-align: center;
     user-select: none
+}
+
+.shopping__item-link.disabled,
+.shopping__item-link.disabled:hover {
+    background: #ccc;
+    border: 1px solid #aaa;
+    color: #333;
 }
 
 @media screen and (min-width: 768px) {
